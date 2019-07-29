@@ -1,2 +1,2 @@
 # Competitive-Programming
-SPOJ-Codeforces-CodeChef-A2-Online Jugde
+SPOJ-Codeforces-CodeChef-GeeksForGeeks-Hackerrank
